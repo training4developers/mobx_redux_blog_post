@@ -1,6 +1,6 @@
 # Welcome to the MobX/Redux Blog Post Code
 
-## Instructor
+## Blog Post Author
 
 Eric Greene - [http://t4d.io](http://t4d.io) - [LinkedIn](https://www.linkedin.com/in/ericwgreene)
 
