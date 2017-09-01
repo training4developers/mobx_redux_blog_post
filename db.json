@@ -1,0 +1,203 @@
+{
+  "colors": [
+    {
+      "id": 1,
+      "name": "red"
+    },
+    {
+      "id": 2,
+      "name": "yellow"
+    },
+    {
+      "id": 3,
+      "name": "blue"
+    },
+    {
+      "name": "violet",
+      "id": 4
+    }
+  ],
+  "cars": [
+    {
+      "id": 1,
+      "make": "GM",
+      "model": "Volt",
+      "year": 2017,
+      "color": "blue",
+      "price": 21000
+    },
+    {
+      "make": "Ford",
+      "model": "T",
+      "year": 2013,
+      "color": "red",
+      "price": 123,
+      "id": 2
+    }
+  ],
+  "owners": [
+    {
+      "id": 1,
+      "name": "Bob"
+    },
+    {
+      "id": 2,
+      "name": "Tim"
+    },
+    {
+      "id": 3,
+      "name": "Jim"
+    }
+  ],
+  "widgets": [
+    {
+      "id": 2,
+      "name": "Medium Blue Widget",
+      "description": "A medium, blue widget.",
+      "color": "blue",
+      "size": "medium",
+      "quantity": 15,
+      "ownerId": 2
+    },
+    {
+      "id": 3,
+      "name": "Large Green Widget",
+      "description": "A large, green widget.",
+      "color": "green",
+      "size": "large",
+      "quantity": 30,
+      "ownerId": 1
+    },
+    {
+      "id": 4,
+      "name": "Tiny Orange Widget",
+      "description": "A tiny, orange widget.",
+      "color": "orange",
+      "size": "tiny",
+      "quantity": 10,
+      "ownerId": 3
+    },
+    {
+      "name": "a",
+      "description": "a",
+      "color": "a",
+      "size": "a",
+      "quantity": 0,
+      "id": 5
+    }
+  ],
+  "people": [
+    {
+      "firstName": "Bob",
+      "lastName": "Smith",
+      "age": 34,
+      "email": "bob@somedomain.com",
+      "phone": "123-123-1234",
+      "city": "Mountain View",
+      "state": "CA",
+      "active": true
+    },
+    {
+      "firstName": "Jenny",
+      "lastName": "Thomkins",
+      "age": 56,
+      "email": "jen@somedomain.com",
+      "phone": "123-123-1234",
+      "city": "Palo Alto",
+      "state": "CA",
+      "active": false
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "firstName": "Jim",
+      "lastName": "Smith"
+    },
+    {
+      "id": 2,
+      "firstName": "Abby",
+      "lastName": "Thompkins"
+    },
+    {
+      "id": 3,
+      "firstName": "Tim",
+      "lastName": "Jones"
+    },
+    {
+      "id": 4,
+      "firstName": "Stuart",
+      "lastName": "Little"
+    },
+    {
+      "firstName": "Todd",
+      "lastName": "Smalls",
+      "id": 5
+    }
+  ],
+  "books": [
+    {
+      "id": 4,
+      "title": "A Friend's Hope",
+      "authorId": 1,
+      "category": "Inspirational",
+      "price": 12.99
+    },
+    {
+      "id": 5,
+      "title": "Good Fellows",
+      "authorId": 2,
+      "category": "Inspirational",
+      "price": 4.99
+    },
+    {
+      "title": "Forbidden Fellowship",
+      "category": "Romance",
+      "price": 5,
+      "authorId": 3,
+      "id": 6
+    },
+    {
+      "id": 8,
+      "title": "Quiet Ones",
+      "authorId": 2,
+      "category": "Mystery",
+      "price": 8.99
+    },
+    {
+      "id": 9,
+      "title": "Debating Silence",
+      "authorId": 3,
+      "category": "Humor",
+      "price": 7.99
+    },
+    {
+      "id": 10,
+      "title": "Midnight Killer",
+      "authorId": 3,
+      "category": "Mystery",
+      "price": 10.99
+    },
+    {
+      "title": "History of People",
+      "category": "Historical",
+      "price": 1,
+      "authorId": 2,
+      "id": 15
+    },
+    {
+      "title": "Lord of the Rings",
+      "category": "Inspirational",
+      "price": 19,
+      "authorId": 2,
+      "id": 16
+    },
+    {
+      "title": "Crazy People",
+      "category": "Humor",
+      "price": 7.99,
+      "authorId": 1,
+      "id": 17
+    }
+  ]
+}
