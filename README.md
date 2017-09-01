@@ -6,7 +6,7 @@ Eric Greene - [http://t4d.io](http://t4d.io) - [LinkedIn](https://www.linkedin.c
 
 ## Setup Instructions
 
-This is MobX/Redux blog post application build with a starter project for creating HTML/SASS/React/Redux/Relay application.
+This is MobX/Redux blog post application built with a starter project for creating HTML/SASS/React/Redux/Relay application.
 
 ### Application Setup
 
