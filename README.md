@@ -1,86 +1,12 @@
-# Welcome to Test-Driven React and Redux
+# Welcome to the MobX/Redux Blog Post Code
 
 ## Instructor
 
 Eric Greene - [http://t4d.io](http://t4d.io) - [LinkedIn](https://www.linkedin.com/in/ericwgreene)
 
-## Schedule
-
-Class:
-
-- Monday - Friday, 9am to 5pm CDT
-
-Breaks:
-
-- Morning: 10:25am - 10:35am
-- Lunch: Noon to 1pm
-- Afternoon #1: 2:15pm - 2:25pm
-- Afternoon #2: 3:40pm - 3:50pm
-
-## Course Outline
-
-### Monday’s Topics
-
-- Creating a Component & JSX
-- Display a Static List/Table with JSX
-- Display a Dynamic List/Table with JSX and Map
-- Styling Components
-- Passing Data in with Props
-
-### Tuesday’s Topics
-
-- Working with State and Form Fields
-- Working with State and Processing Form Data
-- Decomposition and Props
-- Decomposition and State
-
-### Wednesday’s Topics
-
-- Stateless Functions
-- Adding PropTypes
-- Understanding Keys
-- Using Refs and Life Cycle Functions
-- Pure Components
-
-### Thursday’s Topics
-
-- User Interface Routing
-- Principles of Redux
-- Reducers and Actions
-
-### Friday’s Topics
-
-- Integrating Redux with React
-- Connecting Redux to REST Services
-- Unit Testing
-
-[Course Login](https://www.t4d.school/login/index.php)
-
-- Username: Email account name without the @ symbol and domain
-- Password: t4dpass (you will be prompted to change it on first login)
-
-## Links
-
-### Instructor's Resources
-
-- [Accelebrate](http://www.accelebrate.com/)
-- [Eric's Blog](http://t4d.io/)
-- [WintellectNOW](https://www.wintellectnow.com/Home/Instructor?instructorId=EricGreene) - Special Offer Code: GREENE-2016
-- [Microsoft Virtual Academy](https://mva.microsoft.com/search/SearchResults.aspx#!q=Eric%20Greene&lang=1033)
-- [React Labs](https://github.com/Microsoft/TechnicalCommunityContent/tree/master/Web%20Frameworks/React)
-
-### Other Resources
-
-- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
-- [JavaScript Air Podcast](http://javascriptair.podbean.com/)
-- [Speaking JavaScript](http://speakingjs.com/es5/)
-- [TC39 Process - Feature Stages](http://www.2ality.com/2015/11/tc39-process.html)
-- [Official ES2016 Features](http://www.2ality.com/2016/01/ecmascript-2016.html)
-- [Possible ES2017 Features](http://www.2ality.com/2016/02/ecmascript-2017.html)
-
 ## Setup Instructions
 
-This is a starter project for creating an HTML/SASS/React/Redux/Relay application.
+This is MobX/Redux blog post application build with a starter project for creating HTML/SASS/React/Redux/Relay application.
 
 ### Application Setup
 
